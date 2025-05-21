@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090581189735",
+    "project_id": "coin-fund",
+    "storage_bucket": "coin-fund.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090581189735:android:cb47f63883358bcb3b70c2",
+        "android_client_info": {
+          "package_name": "com.coinfund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090581189735-on682om68t7n0g6o25qin75a4ti8eu6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIN0eeAwgIBGVqwLszSFhEXptNjhJnHAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090581189735-on682om68t7n0g6o25qin75a4ti8eu6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

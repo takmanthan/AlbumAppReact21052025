@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoinFund</string>
+    <string name="default_notification_channel_id">com.ds.coinfund</string>
+</resources>
